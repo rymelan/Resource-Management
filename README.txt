@@ -1,4 +1,4 @@
-Using command line user input the program reads a file with information about some 
+Using command line input the program reads a file with information about some 
 tasks and then runs an optimistic and the banker algorithms for resource managment 
 and displays the statistics to stdout.
 
