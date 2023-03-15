@@ -1,5 +1,5 @@
 Using command line input the program reads a file with information about some 
-tasks and then runs an optimistic and the banker algorithms for resource managment 
+tasks and then runs an optimistic and the banker algorithms for resource management 
 and displays the statistics to stdout.
 
 input is a text file in the following format:
